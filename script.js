@@ -121,7 +121,7 @@ function mover(dir){
 // Agrego interaccion con .json
 
 function init(){
-  fetch('/artistas.json')
+  fetch('artistas.json')
   .then(response => response.json())
   .then(data =>{
       adder(data)
