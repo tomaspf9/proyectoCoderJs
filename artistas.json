@@ -1,0 +1,25 @@
+[
+    {
+        "titulo": "Segunda semana en top n°1",
+        "html": "<h1>The Weeknd</h1>",
+        "back": "#B983FF",
+        "color": "white"
+    },
+    {
+        "titulo": "Más reproduciones en la ultima semana",
+        "html": "<h1>Ariana Grande</h1>",
+        "back": "#f5427b",
+        "color": "white"
+    },    {
+        "titulo": "Mejor profe Coder",
+        "html": "<h1>Omar Manias</h1>",
+        "back": "#11d6f5",
+        "color": "white"
+    },
+    {
+        "titulo": "Tomás Páez Fernández",
+        "html": "<h1>Javascript Graduado </h1>",
+        "back": "rgb(240, 231,61 )",
+        "color": "black"
+    }
+]
